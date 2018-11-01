@@ -8,11 +8,9 @@
             <mapping deploy="/home/cindo/blog_project" local="$PROJECT_DIR$" web="/" />
           </mappings>
           <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/blog_project/settings.py" />
             <excludedPath path="/home/cindo/blog_project/blog_project/local_settings.py" />
-            <excludedPath path="/home/cindo/blog_project/blog_project/settings.py" />
-            <excludedPath path="/home/cindo/blog_project/blog_project/settings.py.save" />
-            <excludedPath path="/home/cindo/blog_project/blog_project/settings.py.save.1" />
+            <excludedPath path="/home/cindo/blog_project/blog_project.sock" />
+            <excludedPath path="/home/cindo/blog_project/blog_project/local_settings.py" />
           </excludedPaths>
         </serverdata>
       </paths>
